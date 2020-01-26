@@ -29,3 +29,5 @@
   * Strategy
   * Template Method
   * Visitor
+
+BASED: github.com/Isgartu/JavaPatterns
